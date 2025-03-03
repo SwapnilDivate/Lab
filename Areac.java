@@ -1,5 +1,5 @@
 // Java program to calculate the area of the
-public class GFG {
+public class Areac {
 	public static void main(String[] args)
 	{
 		int radius;
